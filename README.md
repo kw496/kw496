@@ -4,9 +4,9 @@ I'm a product designer @ IBM.
 
 <a href="https://www.linkedin.com/in/kathytwang/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kw496&theme=material-palenight" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kw496&show_icons=true&theme=material-palenight" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw496&layout=compact&theme=material-palenight" /><br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kw496&theme=material-palenight" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kw496&show_icons=true&theme=material-palenight" /><br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw496&layout=compact&theme=material-palenight" /><br><br>
 
 <!--
 **kw496/kw496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
