@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Kathy 👋
+
+I'm a product designer @ IBM. 
 
 <!--
 **kw496/kw496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
