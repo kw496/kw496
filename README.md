@@ -7,9 +7,11 @@ I'm a product designer.
 <a href="https://github.com/kw496">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kw496&theme=material-palenight" />
 </a><br><br>
-<a href="https://github.com/kw496">
+
+<!--<a href="https://github.com/kw496">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=kw496&show_icons=true&theme=material-palenight" />
 </a><br><br>
+-->
 <a href="https://github.com/kw496">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw496&layout=compact&theme=material-palenight" />
 </a>
